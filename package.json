@@ -1,6 +1,6 @@
 {
   "name": "ks-pagination",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "A simple library for common pagination system for the iknsa-frontend-framework which can also be used as standalone.",
   "main": "templates/pagination.html",
   "scripts": {
